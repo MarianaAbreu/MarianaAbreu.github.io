@@ -3,6 +3,7 @@ title: "Real-world time series data - My journey - Episode 1"
 published: true
 ---
 
+## Real-world time series data - Episode 1
 
 My PhD project was about a Multimodal Approach for Predicting and Monitoring Epilepsy. I thought I was going to **predict seizures using cardiovascular activity,** which was being done by other research teams, but with a great margin for improvement (in my opinion). There are so many techniques within the Artificial Intelligence realm, from reinforcement learning to transformers, to transfer learning neural networks used for other applications… I thought I would spend my PhD testing all these methods and evaluating whether they would work in for epilepsy seizure prediction.
 
@@ -12,71 +13,4 @@ In epilepsy, few datasets contain peripheral data (data beyond EEG) and none exi
 
 Now I have my own real-world data on epilepsy, combining hospital recordings with wearable technology, to provide a solution which could move to ambulatory monitoring, while confirming the events by the hospital experts. → This is only the beginning 😄
 
-I hope you like it!
 
-# Highlighter
-## Ruby
-```ruby
-def show
-  puts "Outputting a very lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong line"
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
-```
-
-## Php
-```php
-<?php
-  print("Hello {$world}");
-?>
-```
-
-## Java
-```java
-public class java {
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-    }
-}
-```
-
-## HTML
-```html
-<html>
-  <head><title>Title!</title></head>
-  <body>
-    <p id="foo">Hello, World!</p>
-    <script type="text/javascript">var a = 1;</script>
-    <style type="text/css">#foo { font-weight: bold; }</style>
-  </body>
-</html>
-```
-
-## Console
-```console
-# prints "hello, world" to the screen
-~# echo Hello, World
-Hello, World
-
-# don't run this
-~# rm -rf --no-preserve-root /
-```
-
-## Css
-```css
-body {
-    font-size: 12pt;
-    background: #fff url(temp.png) top left no-repeat;
-}
-```
-
-## Yaml
-```yaml
----
-one: Mark McGwire
-two: Sammy Sosa
-three: Ken Griffey
-```
