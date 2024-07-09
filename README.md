@@ -1,12 +1,12 @@
-#Personal Website Portfolio
+# Personal Website Portfolio
 
 
 Welcome to my personal website portfolio! This project showcases my skills, projects, and experiences in web development and other areas of interest.
 
-##About
+## About
 This website serves as a digital portfolio where I can share my work, skills, and experiences. It includes sections about me, my projects, my resume, and ways to contact me. The goal of this website is to provide a professional online presence and to connect with potential employers, collaborators, and other professionals.
 
-##Features
+## Features
 **Home Page:** Introduction and a brief overview of who I am. 
 
 **About Me:** Detailed information about my background, skills, and interests.
@@ -16,7 +16,7 @@ This website serves as a digital portfolio where I can share my work, skills, an
 **Publications**: Journal peer-reviewed publications
 
 
-##Technologies Used
+## Technologies Used
 ![HTML5](https://skillicons.dev/icons?i=html,css,js,bootstrap,github)
 
 **HTML5:** For structuring the content on the web pages.
